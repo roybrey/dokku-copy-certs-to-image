@@ -13,7 +13,7 @@ Only affects deploys where buildpacks are in use. Files are not available during
 
 ```shell
 # on 0.4.x
-dokku plugin:install https://github.com/dokku/dokku-copy-files-to-image.git  copy-files-to-image
+dokku plugin:install https://github.com/roybrey/dokku-copy-certs-to-image.git  copy-certs-to-image
 ```
 
 ## usage
